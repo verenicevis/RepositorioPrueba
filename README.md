@@ -1,10 +1,11 @@
 # RepositorioPrueba
-Creo esto para aprender a crear/usar repositorios y proyectos. Edito con Atom 😊
+Creo esto para aprender a crear/usar repositorios y proyectos. 
+
+Manejo esto desde Atom 😊
 
 💃 🐣
 
 
 Edito para que me suba un _commit_
 
-
-Nota: GitHub NO tiene acentos 😕
+(o varios ya 😂)
